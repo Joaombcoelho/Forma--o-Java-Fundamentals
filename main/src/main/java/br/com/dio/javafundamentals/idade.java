@@ -2,7 +2,7 @@ package br.com.dio.javafundamentals;
 
 import java.util.Scanner;
 
-public class Main {
+public class idade {
     
     public static void main(String[] args) {
 
