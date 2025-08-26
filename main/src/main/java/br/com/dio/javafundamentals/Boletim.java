@@ -12,7 +12,7 @@ public class Boletim {
         if (nota >= 7) {
             System.out.println("Aprovado");
         } else if (nota >= 5 && nota <= 6.9) {
-            System.out.println("Recuperação");
+            System.out.println("Recuperacao");
         } else {
             System.out.println("Reprovado");
         }
