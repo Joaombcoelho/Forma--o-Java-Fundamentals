@@ -1,0 +1,3 @@
+databaseChangeLog:
+- includeall:
+path: db/changelog/migrations

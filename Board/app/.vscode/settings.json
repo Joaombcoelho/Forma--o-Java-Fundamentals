@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "board.br.com.dio.App",
+            "projectName": "App.java"
+        }
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
